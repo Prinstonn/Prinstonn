@@ -9,7 +9,7 @@ I specialize in **designing, deploying, and managing secure, scalable cloud solu
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF4F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
